@@ -5,7 +5,7 @@ html {
   line-height: 1.4; }
 
   .container {
-  max-width: 1080px;
+  max-width: 90%;
   padding: 0 1.5rem;
   margin: auto; }
 
@@ -16,7 +16,7 @@ html {
   box-sizing: border-box; }
 
 body {
-  background: #fffeff;
+  background: #ffffff;
   color: #4f4350;
   padding: 3rem 0; }
 
@@ -111,5 +111,49 @@ header .header-inner nav ul li a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+}
+
+.high-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.high-container .left,
+.high-container .right {
+  width: 100%;
+}
+
+/* Media Queries for larger screens */
+@media (min-width: 768px) {
+  #about {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .high-container {
+    flex-direction: row;
+  }
+
+  .high-container .left,
+  .high-container .right {
+    width: 50%;
+  }
+
+  header .container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  header nav ul {
+    flex-direction: row;
+  }
+}
+
+/* Enhancements for mobile view */
+@media (max-width: 767px) {
+  .high-container .left,
+  .high-container .right {
+    margin-bottom: 20px;
   }
 }
