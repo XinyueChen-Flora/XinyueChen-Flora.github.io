@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Xinyue Chen| UM</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
+    
+    <meta name="keywords" content="minimal light">
+    
+    
+    <link rel="canonical" href="https://minimal-light-theme.yliu.me/"/>
+    
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+
+    
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/publications.css">
+    
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        
+        <a class="image avatar"><img src="./assets/img/avatar.png" alt="avatar" /></a>
+        
+
+        <h1>Xinyue Chen</h1>
+
+        
+        <position style="font-size:1.10rem;">Ph.D. Student</position>
+        <br>
+        
+        
+        <a href="" rel="https://umich.edu"><autocolor>University of Michigan</autocolor></a>
+        <br>
+        
+        
+        <email>xinyuech@umich.edu.edu</email>
+        
+
+        <br>
+        <br>
+        <div class="social-icons">
+        
+        <a style="margin: 0 5px 0 0" href="https://scholar.google.com.hk/citations?user=DKlr_YMAAAAJ&amp;hl">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>  
+        
+
+        
+        <a style="margin: 0 5px 0 0" href="assets/files/curriculum_vitae.pdf">
+          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        </a>
+        
+
+        
+        <a style="margin: 0 5px 0 0" href="https://github.com/XinyueChen-Flora">
+          <i class="fab fa-github"></i>
+        </a>
+        
+
+        
+        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        
+
+        
+        <a style="margin: 0 0 0 0" href="https://twitter.com/XinyueChenn">
+          <i class="fab fa-twitter"></i>
+        </a>
+        
+        </div>
+        <br>
+
+        <div class="job-market-box">
+          <strong>📢 Job Market</strong><br>
+          I am on the academic job market (2025–26), seeking positions in HCI, Human–AI Interaction, and Learning Technologies.
+        </div>
+
+        <br>
+
+        <div class="sidebar-news">
+          <h3 style="font-size: 1.2rem; margin-bottom: 0.8rem;">Recent News</h3>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li><span class="news-date">[May 2025]</span> Starting internship at Adobe Research</li>
+            <li><span class="news-date">[April 2025]</span> Paper accepted at DIS 2025</li>
+            <li><span class="news-date">[Mar 2025]</span> Paper accepted at CHIWORK 2025</li>
+            <li><span class="news-date">[Feb 2025]</span> Two papers accepted at CHI 2025</li>
+            <li><span class="news-date">[Oct 2024]</span> Paper accepted at CSCW 2025</li>
+          </ul>
+        </div>
+
+      </header>
+      <section>
+
+      <h2 id="about-me">About Me</h2>
+
+<p> 👋 Hi, I am Xinyue Chen,  a fifth-year Ph.D. candidate in <a href="https://cse.engin.umich.edu/" class="bold">Computer Science and Engineering</a> at the <a href="https://umich.edu/" class="bold">University of Michigan</a>, advised by <a href="https://web.eecs.umich.edu/~xwanghci/" class="bold">Prof. Xu Wang</a>.</p>
+
+<p>My research sits at the intersection of <strong>Human–Computer Interaction (HCI)</strong>, <strong>Human–AI Interaction</strong>, and <strong>Cognitive Science</strong>, investigating how AI can scaffold human sense-making across individual and collaborative contexts. My work has been published in premier venues including CHI, CSCW, DIS, and AIED, and has received several Best Paper Honorable Mention Awards. Together, my work contributes to a broader vision of AI systems that support human cognition, advance mechanisms for human–AI alignment and AI-mediated common ground, helping people and teams think, learn, and coordinate more effectively with and through AI.</p>
+
+<p>Prior to Michigan, I received my B.S. in Information Management from <a href="https://www.pku.edu.cn/" class="bold">Peking University</a>, advised by <a href="https://scholar.google.com/citations?user=fL6FUdkAAAAJ&amp;hl=en" class="bold">Prof. Pengyi Zhang</a>. I have also worked as a Research Scientist Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/" class="bold">Microsoft Research Cambridge</a> (Tools for Thought group, mentored by <a href="https://www.microsoft.com/en-us/research/people/serintel/">Sean Rintel</a>, <a href="https://www.levtankelevitch.com/">Lev Tankelevitch</a>, and <a href="https://payodpanda.com/">Payod Panda</a>) and <strong>Adobe Research</strong> (Document Intelligence team, mentored by <a href="https://research.adobe.com/person/alexa-siu/">Alexa Siu</a> and <a href="https://research.adobe.com/person/tong-sun/">Tong Sun</a>).</p>
+
+<h2 id="research-overview"> Research Overview</h2>
+
+<p>In knowledge-intensive tasks such as analysis, writing, learning, and collaboration, people engage in continuous sense-making—refining understanding as they work and learn. As AI becomes embedded in these processes, my research asks:</p>
+
+<p class="research-hook">How can AI assist without weakening the human sense-making these tasks rely on?</p>
+
+<p>In collaborative settings, such as meetings and co-writing, I design AI-mediated systems that visualize and scaffold human–human common ground, making shared understanding visible and actionable. In individual tasks, I study human–AI alignment and propose intermediate AI designs that balance assistance with agency, helping people stay cognitively engaged while enabling AI to adapt through interaction.</p>
+
+<p>Together, these studies advance a vision of <strong>AI-mediated common ground</strong>, where humans and AI co-construct understanding through ongoing collaboration.</p>
+
+<h2 id="research-interests">🔍 Research Interests</h2>
+
+<p>Human–AI Collaboration · Cognitive Augmentation · AI-Mediated Communication · Sense-Making and Reasoning · Collaborative Learning · Human-Centered AI</p>
+
+<div class="publications">
+  <ol class="bibliography">
+    <h3 style="font-weight: bold;color: #a64d79">Stringently peer-reviewed conference and journal publication</h3>
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/note.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CSCW</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="#">More AI Assistance Reduces Cognitive Engagement: Examining the AI Assistance Dilemma in AI-Supported Note-Taking.</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Kunlin Ruan, Kexin Ju, Nathan Yap, Xu Wang</div>
+            <div class="periodical"><em>CSCW2025 (to appear)</em>
+            </div>
+          <div class="links">
+             
+            <strong> <i style="color:#e74d3c">Accepted with minor revision</i></strong>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/CHI25.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CHI</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="https://xinyuechen-flora.github.io/Xinyue___In_meeting_reflection___new%20(27).pdf">Are We On Track? AI-Assisted Active and Passive Goal Reflection During Meetings.</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Lev Tankelevitch ,Rishi Vanukuru, Ava Elizabeth Scott, Payod Panda, Sean Rintel</div>
+            <div class="periodical"><em>CHI2025</em>
+            </div>
+          <div class="links">
+             
+            <a href="Xinyue___In_meeting_reflection___new (27).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://arxiv.org/abs/2504.01082" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/MeetMap.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CSCW</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="MeetMap_CSCW25-cameraready.pdf">MeetMap: Generating Dialogue Maps as Real-Time Cognitive Scaffolds for Online Meetings.</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Nathan Yap, Xinyi Lu, Aylin Gunal, Xu Wang</div>
+            <div class="periodical"><em>CSCW2025</em>
+            </div>
+          <div class="links">
+             
+            <a href="MeetMap_CSCW25-cameraready.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://arxiv.org/abs/2502.01564" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/surgeryscene.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CHI</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="2403.14561v1.pdf">"Looking Together ≠ Seeing the Same Thing: Understanding Surgeons' Visual Needs During Intra-operative Coordination and Instruction</a></div>
+            <div class="author"><strong>Xinyue Chen*</strong>, Vitaliy Popov*, Jingying Wang, Michael Kemp, Gurjit Sandhu, Taylor Kantor, Natalie Mateju, Xu Wang (* indicates equal contribution)</div>
+            <div class="periodical"><em>CHI2024</em>
+            </div>
+          <div class="links">
+             
+            <a href="2403.14561v1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://arxiv.org/abs/2403.14561" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM</a>
+            
+            <a href="https://drive.google.com/file/d/1tVoRDuvF8I4vzV6bsieljYD4IeU5XLl6/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+             
+            <strong> <i style="color:#e74d3c">🏆 Honorable Mention Award</i></strong>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/system.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CSCW</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="3610196.pdf">MeetScript: Transcript-based Interactions Give People Additional Participation Channels in Group Video Meetings</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Shuo Li, Shipeng Liu, Robin Fowler, Xu Wang</div>
+            <div class="periodical"><em>CSCW2023</em>
+            </div>
+          <div class="links">
+             
+            <a href="3610196.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3610196" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM</a>
+            
+            <a href="https://drive.google.com/file/d/1tVoRDuvF8I4vzV6bsieljYD4IeU5XLl6/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/CSCW2021-vbog.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CSCW</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="vlog.pdf">“My Culture, My People, My Hometown”: Chinese Ethnic Minorities Seeking Cultural Sustainability by Video Blogging</a></div>
+            <div class="author">Si Chen *, <strong>Xinyue Chen *</strong>,  Zhicong Lu, Yun Huang</div>
+            <div class="periodical"><em>CSCW2023</em>
+            </div>
+          <div class="links">
+             
+            <a href="vlog.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://dl.acm.org/doi/abs/10.1145/3579509" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM</a>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/AIED2022.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">AIED</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="mixfa.pdf">Towards Scaling Mixed-Methods Formative Assessments(MixFA) in Classrooms: A Clustering Pipeline to Identify Student Knowledge</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Xu Wang</div>
+            <div class="periodical"><em>AIED2022</em>
+            </div>
+          <div class="links">
+             
+            <a href="mixfa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://link.springer.com/chapter/10.1007/978-3-031-11644-5_35" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Springer</a>
+            
+          </div>
+        </div>
+      </div>
+      </li>
+      
+      <br />
+      
+      <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="https://xinyuechen-flora.github.io/img/CSCW2020.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+                  <abbr class="badge">CSCW</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="CSCW2020-livestreaming.pdf">🏆 “I was afraid, but now I enjoy being a streamer!’’: Understanding the Challenges and Prospects of Using Live Video Streaming for Online Education</a></div>
+            <div class="author"><strong>Xinyue Chen</strong>, Si Chen, Xu Wang, Yun Huang</div>
+            <div class="periodical"><em>CSCW2021</em>
+            </div>
+          <div class="links">
+             
+            <a href="CSCW2020-livestreaming.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            
+             
+            <a href="https://dl.acm.org/doi/abs/10.1145/3432936" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM</a>
+            
+            <a href="https://www.youtube.com/watch?v=QMll_T91mPc&amp;t=26s" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+             
+            <strong> <i style="color:#e74d3c">🏆 Honorable Mention Award</i></strong>
+           
+          </div>
+        </div>
+      </div>
+      </li>
+  
+  
+
+  
+  
+  
+  </ol>
+  </div>
+
+  <div class="publications">
+    <ol class="bibliography">
+      <h3 style="font-weight: bold;color: #a64d79">Workshop/Poster/Demo</h3>
+      <li>
+        <div class="pub-row">
+          <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <img src="https://xinyuechen-flora.github.io/img/sensemaking.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" alt="Sensemaking Framework">
+                    <abbr class="badge">CHI WS</abbr>
+          </div>
+          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+              <div class="title"><a href="#">Balancing Cognitive Effort and AI Assistance: an AI-assisted Sensemaking Framework for Synchronous Communication</a></div>
+              <div class="author"><strong>Xinyue Chen</strong>, Xu Wang</div>
+              <div class="periodical"><em>CHI 2024 Sensemaking Workshop</em>
+              </div>
+            <div class="links">
+               
+              <strong> <i style="color:#e74d3c">Workshop</i></strong>
+              
+            </div>
+          </div>
+        </div>
+        </li>
+        
+        <br />
+        
+        <li>
+        <div class="pub-row">
+          <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <img src="https://xinyuechen-flora.github.io/img/sensemaking.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" alt="MeetScript Demo">
+                    <abbr class="badge">CSCW</abbr>
+          </div>
+          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+              <div class="title"><a href="#">MeetScript: Transcript-based Interactions Give People Additional Participation Channels in Group Video Meetings.</a></div>
+              <div class="author"><strong>Xinyue Chen</strong>, Shuo Li, Shipeng Liu, Robin Fowler, Xu Wang</div>
+              <div class="periodical"><em>CSCW 2023 Demo</em>
+              </div>
+            <div class="links">
+               
+              <strong> <i style="color:#e74d3c">Demo</i></strong>
+              
+            </div>
+          </div>
+        </div>
+        </li>
+        
+        <br />
+        
+        <li>
+        <div class="pub-row">
+          <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <img src="https://xinyuechen-flora.github.io/img/surgeryscene.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" alt="Surgical Entrustment">
+                    <abbr class="badge">CHI EA</abbr>
+          </div>
+          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+              <div class="title"><a href="#">Towards Supporting Intraoperative Coordination and Entrustment in Surgical Faculty-Resident Dyads: Looking Together is not Seeing the Same Thing.</a></div>
+              <div class="author">Vitaliy Popov, <strong>Xinyue Chen</strong>, Michael Kemp, Gurjit Sandhu, Taylor Kantor, Natalie Mateju, Xu Wang</div>
+              <div class="periodical"><em>CHI 2022 Extended Abstracts (LBW)</em>
+              </div>
+            <div class="links">
+              
+              <strong> <i style="color:#e74d3c">LBW</i></strong>
+            </div>
+          </div>
+        </div>
+        </li>
+        
+        <br />
+    </ol>
+    </div>
+<h2 id="services">Services</h2>
+
+<h4 style="margin:0 10px 0;">Jounal Reviews</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>CHI2022, CHI2023, CHI2024, CHI2025*</li>
+  <li>CSCW2022*, CSCW2024*</li>
+  <li>UIST2024* UIST2025</li>
+  <li>CHILBW 2021,2022, 2024</li>
+  <li> CHI Case Study 2022</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Associate Chair</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>CSCW 2023 Poster Circle</li>
+  <li>CHI 2026 Learning Subcommittee</li>
+</ul>
+
+
+      <br>
+
+<!--       
+      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p> -->
+      
+
+      </section>
+      <footer>
+        
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-111540567-4', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>
